@@ -5,6 +5,13 @@ body{
     width: 200px;
 }
 
+nav{
+    background-color: purple;
+    color: white;
+}
+
+ 
+
 ul li a:hover{
     transform: scale(1.25);
     transition: 0.5s;
@@ -34,4 +41,9 @@ ul li a:hover{
  .card img:hover{
     transform: scale(1.05);
     transition: 0.5s;
+
+ }
+
+ #contact{
+    background-color: purple;
  }
